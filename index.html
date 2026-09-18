@@ -1,22 +1,108 @@
+<!DOCTYPE html>
 <html>
+<head>
+<title>QA Automation Report Portal</title>
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7fc;
+    margin: 40px;
+}
+
+.header {
+    background: #0078d4;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+th {
+    background: #0078d4;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+tr:hover {
+    background: #f5f9ff;
+}
+
+.report-btn {
+    background: #28a745;
+    color: white;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.report-btn:hover {
+    background: #218838;
+}
+
+.status {
+    color: #28a745;
+    font-weight: bold;
+}
+
+</style>
+</head>
+
 <body>
 
-<h1>QA Reporting Portal</h1>
+<div class="header">
+    <h1>🚀 QA Automation Report Portal</h1>
+    <p>Historical Allure Reports Dashboard</p>
+</div>
 
-<table border="1">
+<div class="table-container">
+
+<table>
+
 <tr>
 <th>Application</th>
-<th>Date</th>
+<th>Execution Date</th>
+<th>Status</th>
 <th>Report</th>
 </tr>
 
 <tr>
 <td>DJCSS</td>
 <td>17-Sep-2026</td>
-<td><a href="DJCSS-2026-09-17.html">View Report</a></td>
+<td><span class="status">✅ Available</span></td>
+<td>
+<a class="report-btn" href="DJCSS-2026-09-17.html">
+View Report
+</a>
+</td>
 </tr>
 
 </table>
+
+</div>
 
 </body>
 </html>
