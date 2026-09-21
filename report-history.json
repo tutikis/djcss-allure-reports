@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "application": "DJCSS",
+    "executionDate": "2026-09-21",
+    "environment": "QA",
+    "totalTests": 78,
+    "passed": 76,
+    "failed": 2,
+    "passPercentage": "97.44",
+    "duration": "9 mins",
+    "reportUrl": "DJCSS/2026-09-21/"
+  }
+]
