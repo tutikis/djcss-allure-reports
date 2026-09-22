@@ -49,7 +49,7 @@
     "failed": 1,
     "passPercentage": "91.67",
     "duration": "2 mins",
-    "reportUrl": "DJCSS/Smoke/2026-09-22/15-17-07/"
+    "reportUrl": "DJCSS/smoke/2026-09-22/15-17-07/"
   },
   {
     "application": "DJCSS",
@@ -62,7 +62,7 @@
     "failed": 1,
     "passPercentage": "91.67",
     "duration": "2 mins",
-    "reportUrl": "DJCSS/Smoke/2026-09-22/09-21-56/"
+    "reportUrl": "DJCSS/smoke/2026-09-22/09-21-56/"
   },
   {
     "application": "DJCSS",
