@@ -1,6 +1,19 @@
 [
   {
     "application": "DJCSS",
+    "suite": "Smoke",
+    "executionDate": "2026-09-22",
+    "executionTime": "09-21-56",
+    "environment": "QA",
+    "totalTests": 12,
+    "passed": 11,
+    "failed": 1,
+    "passPercentage": "91.67",
+    "duration": "2 mins",
+    "reportUrl": "DJCSS/Smoke/2026-09-22/09-21-56/"
+  },
+  {
+    "application": "DJCSS",
     "executionDate": "2026-09-22",
     "environment": "QA",
     "totalTests": 78,
