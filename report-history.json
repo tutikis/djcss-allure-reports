@@ -1,6 +1,17 @@
 [
   {
     "application": "DJCSS",
+    "executionDate": "2026-09-22",
+    "environment": "QA",
+    "totalTests": 78,
+    "passed": 66,
+    "failed": 12,
+    "passPercentage": "84.62",
+    "duration": "10 mins",
+    "reportUrl": "DJCSS/2026-09-22/"
+  },
+  {
+    "application": "DJCSS",
     "executionDate": "2026-09-21",
     "environment": "QA",
     "totalTests": 78,
