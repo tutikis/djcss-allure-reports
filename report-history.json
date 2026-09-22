@@ -4,10 +4,10 @@
     "executionDate": "2026-09-22",
     "environment": "QA",
     "totalTests": 78,
-    "passed": 66,
-    "failed": 12,
-    "passPercentage": "84.62",
-    "duration": "10 mins",
+    "passed": 67,
+    "failed": 11,
+    "passPercentage": "85.90",
+    "duration": "11 mins",
     "reportUrl": "DJCSS/2026-09-22/"
   },
   {
