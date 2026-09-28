@@ -1,8 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","19434","Verify search results pagination navigates to the next page of articles","Regression Test Suite","2026-09-28","passed","2026-09-28","FAQ Forms","faq\faq-forms.spec.ts","",""
-"","23499","Verify the Administration page is up","Smoke Test Suite","2026-09-28","passed","2026-09-28","Administration Page - availability","djcss-admin-page\djcss-admin-page.spec.ts","",""
-"","29801","DJCSS-T83: Verify Acceptance Modal does not reappear for an already-accepted PDF (same year)","Regression Test Suite","2026-09-28","passed","2026-09-28","FAQ Forms","faq\faq-forms.spec.ts","",""
-"","5424","Verify rapid double-click on Submit does not create a duplicate submission","Regression Test Suite","2026-09-28","passed","2026-09-28","MCT Form Submission > Form Validation Edge Cases","mct-form\mct-form-submission.spec.ts","",""
-"","24987","DJCSS-T151: Verify DJ Yomiuri logo is displayed correctly across viewport sizes","Smoke Test Suite","2026-09-28","passed","2026-09-28","DJ Yomiuri Standalone","dj-yomiuri-standalone\dj-yomiuri-standalone.spec.ts","",""
-"","24063","Verify a ""0 Results Found"" message is shown for a search term with no matching articles","Regression Test Suite","2026-09-28","passed","2026-09-28","FAQ Forms","faq\faq-forms.spec.ts","",""
-"","19914","DJCSS-T106: Verify FAQ URL after submitting Help Request Form","Regression Test Suite","2026-09-28","passed","2026-09-28","FAQ Forms","faq\faq-forms.spec.ts","",""
