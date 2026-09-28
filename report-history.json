@@ -1,6 +1,19 @@
 [
   {
     "application": "DJCSS",
+    "suite": "Regression",
+    "executionDate": "2026-09-28",
+    "executionTime": "15-18-46",
+    "environment": "QA",
+    "totalTests": 7,
+    "passed": 7,
+    "failed": 0,
+    "passPercentage": "100.00",
+    "duration": "1 mins",
+    "reportUrl": "DJCSS/regression/2026-09-28/15-18-46/"
+  },
+  {
+    "application": "DJCSS",
     "suite": "Smoke",
     "executionDate": "2026-09-24",
     "executionTime": "11-16-52",
