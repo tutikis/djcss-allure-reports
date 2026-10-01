@@ -1,5 +1,21 @@
 [
   {
+    "id": "DJCSS-Smoke-2026-10-01-18-20-22",
+    "application": "DJCSS",
+    "suite": "Smoke",
+    "isRetest": false,
+    "parentId": null,
+    "executionDate": "2026-10-01",
+    "executionTime": "18-20-22",
+    "environment": "QA",
+    "totalTests": 12,
+    "passed": 11,
+    "failed": 1,
+    "passPercentage": "91.67",
+    "duration": "2 mins",
+    "reportUrl": "DJCSS/smoke/2026-10-01/18-20-22/"
+  },
+  {
     "id": "DJCSS-Smoke-2026-09-29-18-06-21",
     "application": "DJCSS",
     "suite": "Smoke",
