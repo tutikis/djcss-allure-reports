@@ -1,0 +1,2 @@
+[2026-10-07T09:16:27.848Z] [INFO] [LoginPage] Navigating to: /
+[2026-10-07T09:16:44.298Z] [INFO] [SupportResourceRequestPage] Navigating to: /supportResourceRequest

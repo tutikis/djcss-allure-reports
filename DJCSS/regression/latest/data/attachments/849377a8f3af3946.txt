@@ -1,2 +1,0 @@
-[2026-10-07T09:00:41.466Z] [INFO] [LoginPage] Navigating to: /
-[2026-10-07T09:01:01.275Z] [INFO] [FeedbackFormPage] Navigating to: /feedback/oxfordanalytica

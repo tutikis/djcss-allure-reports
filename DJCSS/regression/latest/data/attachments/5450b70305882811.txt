@@ -1,2 +1,0 @@
-[2026-10-07T08:53:06.384Z] [INFO] [LoginPage] Navigating to: /
-[2026-10-07T08:53:27.232Z] [INFO] [FaqPage] Clicking nav link: "FAQ"
