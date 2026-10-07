@@ -1,0 +1,2 @@
+[2026-10-07T09:01:24.993Z] [INFO] [LoginPage] Navigating to: /
+[2026-10-07T09:01:38.102Z] [INFO] [FeedbackFormPage] Navigating to: /feedback/tradecompliance
