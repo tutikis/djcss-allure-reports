@@ -1,0 +1,2 @@
+[2026-10-07T08:44:44.486Z] [INFO] [LoginPage] Navigating to: /
+[2026-10-07T08:45:06.551Z] [INFO] [YomiuriPage] Navigating to: /dowjonesyomiuri

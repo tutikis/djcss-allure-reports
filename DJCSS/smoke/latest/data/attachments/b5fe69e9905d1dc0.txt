@@ -1,2 +1,0 @@
-[2026-10-07T08:20:16.759Z] [INFO] [LoginPage] Navigating to: /
-[2026-10-07T08:20:27.351Z] [INFO] [AdministrationPage] Navigating to: /administration

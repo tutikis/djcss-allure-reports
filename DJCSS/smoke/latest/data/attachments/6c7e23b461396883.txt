@@ -1,0 +1,3 @@
+[2026-10-07T08:45:46.738Z] [INFO] [LoginPage] Navigating to: /
+[2026-10-07T08:46:07.845Z] [INFO] [HelpRequestFormPage] Navigating to: /contact/eform
+[2026-10-07T08:46:15.650Z] [INFO] [HelpRequestFormPage] Closing popup: "Close"
