@@ -1,0 +1,2 @@
+[2026-10-13T09:37:57.826Z] [INFO] [LoginPage] Navigating to: /
+[2026-10-13T09:38:11.747Z] [INFO] [RcProductUpdatePage] Clicking nav link: "Notifications"

@@ -1,1 +1,1 @@
-{"reportName":"DJCSS Smoke Report","testRuns":[],"statistic":{"failed":0,"broken":1,"skipped":0,"passed":11,"unknown":0,"total":12},"time":{"start":1791804149209,"stop":1791804270699,"duration":121490,"minDuration":7737,"maxDuration":33930,"sumDuration":221094}}
+{"reportName":"DowJones Smoke Report","testRuns":[],"statistic":{"failed":0,"broken":2,"skipped":0,"passed":10,"unknown":0,"total":12},"time":{"start":1791884149320,"stop":1791884300709,"duration":151389,"minDuration":6240,"maxDuration":31200,"sumDuration":274556}}
