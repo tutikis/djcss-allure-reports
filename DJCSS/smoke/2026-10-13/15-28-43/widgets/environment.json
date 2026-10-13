@@ -1,0 +1,1 @@
+[{"values":["DJCSS"],"name":"Application"},{"values":["QA"],"name":"Environment"},{"values":["URL=https://customer.qa.dowjones.com/"],"name":"Base"},{"values":["chromium"],"name":"Browser"},{"values":["true"],"name":"Headless"},{"values":["v24.14.0"],"name":"Node"},{"values":["win32"],"name":"Platform"}]
